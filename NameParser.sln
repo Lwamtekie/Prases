@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameParser", "NameParser\NameParser.csproj", "{C0017426-870B-46C8-9B9E-151BA9EC3F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameParser.Tests", "NameParser.Tests\NameParser.Tests.csproj", "{702D908B-DF9C-49CE-A869-0BC9FBEF99F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0017426-870B-46C8-9B9E-151BA9EC3F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0017426-870B-46C8-9B9E-151BA9EC3F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0017426-870B-46C8-9B9E-151BA9EC3F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0017426-870B-46C8-9B9E-151BA9EC3F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702D908B-DF9C-49CE-A869-0BC9FBEF99F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702D908B-DF9C-49CE-A869-0BC9FBEF99F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702D908B-DF9C-49CE-A869-0BC9FBEF99F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702D908B-DF9C-49CE-A869-0BC9FBEF99F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32B3953F-E3EE-4267-804A-C37DDC10F71B}
+	EndGlobalSection
+EndGlobal
